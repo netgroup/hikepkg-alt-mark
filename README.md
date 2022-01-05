@@ -1,2 +1,3 @@
-# hikepkg-template
-template for HIKe packages
+# alt-mark HIKe package
+
+alternate marking in HIKe 
